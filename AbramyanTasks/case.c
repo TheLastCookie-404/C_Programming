@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
+
 void main()
 {
-    printf("Дароу");
+    printf("Ультра дароу, хех");
 }

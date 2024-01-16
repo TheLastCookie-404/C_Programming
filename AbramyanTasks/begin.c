@@ -1,3 +1,4 @@
+#include <math.h>
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
@@ -55,5 +56,23 @@ void main()
     // s = pi * (r * r);
     // printf("Begin 7: L = %i S = %i", l, s);
 
+    // Begin 8
+    // int a = 0, b = 0, arithmeticMean = 0;
+    // scanf("%i", &a);
+    // scanf("%i", &b);
+    // arithmeticMean = (a + b) / 2;
+    // printf("Begin 8: Arithmetical Middle = %i \n", arithmeticMean);
+
+    // Begin 9
+    // unsigned float a = 0, b = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // printf("Begin 9: Geometrical Middle = %lf \n", sqrtf(a * b));
+
+    // Begin 10
+    int a = 0, b = 0;
+    scanf("%f", &a);
+    scanf("%f", &b);
+    
 
 }

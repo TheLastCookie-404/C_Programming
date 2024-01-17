@@ -77,9 +77,26 @@ void main()
     // sqrDiffnce = powf(a, 2) - powf(b, 2);
     // sqrProduct = powf(a, 2) * powf(b, 2);
     // sqrQuotient = powf(a, 2) / powf(b, 2);
-    // printf("Begin 9: \nSquare summ = %.2f \nSquare difference = %.2f \nSquare product = %.2f \nSquare quotient = %.2f \n", sqrSumm, sqrDiffnce, sqrProduct, sqrQuotient);
+    // printf("Begin 10: \nSquare summ = %.2f \nSquare difference = %.2f \nSquare product = %.2f \nSquare quotient = %.2f \n", sqrSumm, sqrDiffnce, sqrProduct, sqrQuotient);
     
     // Begin 11
     // float a = 0 ,b = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // a = abs(a);
+    // b = abs(b);
+    // printf("Begin 11: \nAbs Summ = %.2f \nAbs difference = %.2f \nAbs product = %.2f \nAbs product = %.2f", a + b, a - b, a * b, a / b);
+
+    // Begin 12
+    // float a = 0, b = 0, c = 0, p = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // c = sqrtf(powf(a, 2) + powf(b, 2));
+    // p = a + b + c;
+    // printf("Begin 12: \nHypotenuse = %.2f \nPerimeter = %.2f", c, p);
+
+
+    // Begin 13
+    
 
 }

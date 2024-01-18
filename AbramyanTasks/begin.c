@@ -93,10 +93,36 @@ void main()
     // scanf("%f", &b);
     // c = sqrtf(powf(a, 2) + powf(b, 2));
     // p = a + b + c;
-    // printf("Begin 12: \nHypotenuse = %.2f \nPerimeter = %.2f", c, p);
+    // printf("Begin 12: \nHypotenuse = %.2f \nPerimeter = %.2f \n", c, p);
 
 
     // Begin 13
-    
+    // r1 need to be > than r2
+    // float r1 = 0, r2 = 0, s1 = 0, s2 = 0, s3 = 0;
+    // const float pi = 3.14f;
+    // scanf("%f", &r1);
+    // scanf("%f", &r2);
+    // s1 = pi * powf(r1, 2);
+    // s2 = pi * powf(r2, 2);
+    // s3 = s1 - s2;
+    // printf("Begin 13: \nSquare 1 = %.2f  \nSquare 2 = %.2f \nSquare 3 = %.2f \n", s1, s2, s3);
 
+    // Begin 14
+    // float l = 0, r = 0, s = 0;
+    // const float pi = 3.14f;
+    // scanf("%f", l);
+    // r = l / (2 * pi);
+    // s = pi * powf(r, 2);
+    // printf("Begin 14: \nRadius = %.2f \nSqare = %.2f");
+
+    // Begin 15
+    // float s = 0, d = 0, l = 0, r = 0;
+    // const float pi = 3.14;
+    // scanf("%f", &s);
+    // r = sqrt(s / pi);
+    // d = r * 2;
+    // l = 2 * pi * r;
+    // printf("Begin 15: \nDiametr = %.2f \nCircumference = %.2f \n", d, l);
+
+    
 }

@@ -83,8 +83,8 @@ void main()
     // float a = 0 ,b = 0;
     // scanf("%f", &a);
     // scanf("%f", &b);
-    // a = abs(a);
-    // b = abs(b);
+    // a = fabs(a);
+    // b = fabs(b);
     // printf("Begin 11: \nAbs Summ = %.2f \nAbs difference = %.2f \nAbs product = %.2f \nAbs product = %.2f", a + b, a - b, a * b, a / b);
 
     // Begin 12
@@ -124,5 +124,33 @@ void main()
     // l = 2 * pi * r;
     // printf("Begin 15: \nDiametr = %.2f \nCircumference = %.2f \n", d, l);
 
+    // Begin 16
+    // float x1 = 0, x2 = 0, dist = 0;
+    // scanf("%f", &x1);
+    // scanf("%f", &x2);
+    // dist = fabs(x2 - x1);
+    // printf("Begin 16: \nDistance between 2 points = %.2f \n", dist);
+
+    // Begin 17
+    // float a = 0, b = 0, c = 0, ac = 0, bc = 0, summ = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // scanf("%f", &c);
+    // ac = fabs(c - a);
+    // bc = fabs(c - b);
+    // summ = ac + bc;
+    // printf("Begin 17: \nAC lenght = %.2f \nBC lenght = %.2f \nSumm = %.2f", ac, bc, summ);
+
+    // Begin 18
+    // float a = 0, b = 0, c = 0, ac = 9, bc = 0, product = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // scanf("%f", &c);
+    // ac = fabs(c - a);
+    // bc = fabs(c - b);
+    // product = ac * bc;
+    // printf("Begin 18: \nProguct of AC and BC = %.2f \n", product);
+
+    // Begin 19
     
 }

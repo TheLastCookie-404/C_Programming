@@ -6,7 +6,7 @@
 void main()
 {
     // Begin 1
-    // float p, a = 0;
+    // float p = 0, a = 0;
     // scanf("%f", &a);
     // p = a * 4;
     // printf("Begin 1: \nP = %.2f \n", p);

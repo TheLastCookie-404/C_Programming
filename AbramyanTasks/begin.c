@@ -191,6 +191,11 @@ void main()
     // printf("Begin 21: \nP = %.2f \nS = %.2f", p, s);
 
     // Begin 22
-    
-
+    // float a = 0, b = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // a += b;
+    // b = a - b;
+    // a -= b;
+    // printf("Begin22: \nswap magic A = %i, B = %i \n", a, b);
 }

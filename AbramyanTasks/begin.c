@@ -152,5 +152,45 @@ void main()
     // printf("Begin 18: \nProguct of AC and BC = %.2f \n", product);
 
     // Begin 19
+    // float x1 = 0, y1 = 0, x2 = 0, y2 = 0;
+    // float a = 0, b = 0, p = 0, s = 0;
+    // scanf("%f", &x1);
+    // scanf("%f", &y1);
+    // scanf("%f", &x2);
+    // scanf("%f", &y2);
+    // a = fabs(y2 - y1);
+    // b = fabs(x2 - x1);
+    // p = 2 * (a + b);
+    // s = a * b;
+    // printf("Begin 19: \nP = %.2f \nS = %.2f \n", p, s);
+
+    // Begin 20
+    // float x1 = 0, y1 = 0, x2 = 0, y2 = 0, dist = 0;
+    // scanf("%f", &x1);
+    // scanf("%f", &y1);
+    // scanf("%f", &x2);
+    // scanf("%f", &y2);
+    // dist = sqrtf(powf(x2 - x1, 2) + powf(y2 - y1, 2));
+    // printf("Begin 20: \nDistance = %.2f \n");
+
+    // Begin 21
+    // float x1 = 0, y1 = 0, x2 = 0, y2 = 0, x3 = 0, y3 = 0;
+    // float a = 0, b = 0, c = 0, p = 0, halfP = 0, s = 0;
+    // scanf("%f", &x1);
+    // scanf("%f", &y1);
+    // scanf("%f", &x2);
+    // scanf("%f", &y2);
+    // scanf("%f", &x3);
+    // scanf("%f", &y3);
+    // a = sqrtf(fabs(powf(x2 - x1, 2)) + fabs(powf(y2 - y1, 2)));
+    // b = sqrtf(fabs(powf(x3 - x2, 2)) + fabs(powf(y3 - y2, 2)));
+    // c = sqrtf(fabs(powf(x3 - x1, 2)) + fabs(powf(y3 - y1, 2)));
+    // p = a + b + c; // Perimetr
+    // halfP = p / 2; // Half perimetr
+    // s = sqrtf(halfP * (halfP - a) * (halfP - b) * (halfP - c));
+    // printf("Begin 21: \nP = %.2f \nS = %.2f", p, s);
+
+    // Begin 22
     
+
 }

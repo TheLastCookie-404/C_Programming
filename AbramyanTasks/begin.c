@@ -194,20 +194,23 @@ void main()
     // float a = 0, b = 0;
     // scanf("%f", &a);
     // scanf("%f", &b);
-    // a += b;
-    // b = a - b;
-    // a -= b;
-    // printf("Begin22: \nswap magic A = %i, B = %i \n", a, b);
+    // a += b, b = a - b, a -= b;
+    // printf("Begin22: \nswap magic A = %.2f, B = %.2f \n", a, b);
 
     // Begin 23
     // float a = 0, b = 0, c = 0;
     // scanf("%f", &a);
     // scanf("%f", &b);
     // scanf("%f", &c);
-    // b = a + b;
-    // c = b - a;
-    // a = b;
-    // b = b - c;
-    // printf("Begin22: \nswap magic A = %.2f, B = %.2f, C = %.2f \n", a, b, c);
+    // a += b + c, b = a - b - c, c = a - b - c, a = a - b - c;
+    // printf("Begin23: \nswap magic A = %.2f, B = %.2f, C = %.2f \n", a, b, c);
+
+    // Begin 24
+    // float a = 0, b = 0, c = 0;
+    // scanf("%f", &a);
+    // scanf("%f", &b);
+    // canf("%f", &c);
+    // a += b + c, c = a - b - c, b = a - b - c, a = a - b - c;
+    // printf("Begin23: \nswap magic A = %.2f, B = %.2f, C = %.2f \n", a, b, c);
 
 }

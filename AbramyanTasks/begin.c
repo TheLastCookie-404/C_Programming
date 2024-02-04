@@ -213,4 +213,26 @@ void main()
     // a += b + c, c = a - b - c, b = a - b - c, a = a - b - c;
     // printf("Begin23: \nswap magic A = %.2f, B = %.2f, C = %.2f \n", a, b, c);
 
+    // Begin 25
+    // float x = 0, y = 0;
+    // scanf("%f", &x);
+    // y = (3 * powf(x, 6)) - (6 * pow(x, 2)) - 7;
+    // printf("Begin 25: \nY = %.2f \n", y);
+
+    // Begin 26
+    // float x = 0, y = 0;
+    // scanf("%f", &x);
+    // y = (4 * powf(x - 3, 6)) - (7 * powf(x - 3, 3)) + 2;
+    // printf("Begin 26: \nY = %.2f \n", y);
+    
+    // Begin 27
+    // float a = 0, res = 0;
+    // scanf("%f", &a);
+    // res = a;
+    // printf("Begin 27: \nA = %.2f \nA = %.2f \nA = %.2f \n", res *= res, res *= res, res *= res);
+
+    // Begin 28
+    
+
+
 }

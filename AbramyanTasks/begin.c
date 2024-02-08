@@ -232,7 +232,10 @@ void main()
     // printf("Begin 27: \nA = %.2f \nA = %.2f \nA = %.2f \n", res *= res, res *= res, res *= res);
 
     // Begin 28
-    
+    float a = 8, b = 0, c = 0;
+    b = a;
+    c = a;
+    printf("Begin 28: \nA = %.2f \nA = %.2f \nA = %.2f \nA = %.2f \nA = %.2f", );
 
 
 }
